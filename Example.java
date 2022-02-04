@@ -1,5 +1,5 @@
 public class Example {
     public static boolean returnTrue() {
-        return false;
+        return true;
     }
 }
